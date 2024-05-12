@@ -1,0 +1,61 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+
+.jumbotron {
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+.row-padded{
+  margin-top : 20px;
+  margin-bottom : 30px
+}
+
+.row-padded2{
+  margin-top : 30px;
+  margin-bottom : 20px
+}
+
+.row-padded3{
+  margin-top : 70px;
+  margin-bottom : 20px
+}
+
+.row-padded4{
+  margin-top : 400px;
+  margin-bottom : 20px
+}
+
+.img-padded{
+  margin-bottom : 10px
+}
+
+.table-more-condensed td, .table-more-condensed th {
+  padding: .25rem;
+}
+
+td.col-term {
+  width: 8em
+}
+
+a.hide-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.eedp {
+  height: 30vh;
+  background-image: url("images/vr_with_gradients_small.jpg");
+  background-repeat:no-repeat;
+  background-position: center center;
+}
+
+.eedp:hover {
+  background-image: url("images/sagittal_small.png");
+}
+
+
+nav {
+  background: red;
+}

@@ -1,0 +1,15 @@
+.flex {
+    display: flex;
+}
+
+.justify-around {
+    justify-content: space-around;
+}
+
+#headshot{
+    width: 200px;
+}
+
+nav {
+    background: red;
+}

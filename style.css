@@ -10,3 +10,11 @@
     width: 200px;
 }
 
+
+
+.navbar{
+flex: 1;
+margin: auto !important;
+display: flex;
+justify-content: space-around;
+}

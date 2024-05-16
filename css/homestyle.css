@@ -56,8 +56,14 @@ a.hide-link {
 }
 
 
+.links {
+  color: #000;
+}
+
+
 .links:hover {
   text-decoration: none;
+  color: #000;
 }
 
 .teaching-logo {

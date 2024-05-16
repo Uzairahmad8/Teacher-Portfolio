@@ -56,6 +56,11 @@ a.hide-link {
 }
 
 
-nav {
-  background: red;
+.links:hover {
+  text-decoration: none;
+}
+
+.teaching-logo {
+  max-width: 80%;
+  height: auto;
 }
